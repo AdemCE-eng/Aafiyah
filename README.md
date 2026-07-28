@@ -1,6 +1,19 @@
-# Afia (عافية)
+<p align="center">
+  <img src="assets/afia-readme-logo.png" alt="Afia logo" width="96">
+</p>
 
-Afia is a simple healthcare MVP that helps doctors turn consultation notes into a clear treatment plan for the patient.
+<h1 align="center">Afia | عافية</h1>
+
+<p align="center">A healthcare assistant that turns clinical consultation notes into clear treatment plans.</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=111111" alt="JavaScript">
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white" alt="Node.js">
+  <img src="https://img.shields.io/badge/Express-000000?logo=express&logoColor=white" alt="Express">
+  <img src="https://img.shields.io/badge/watsonx_Orchestrate-0F62FE?logo=ibm&logoColor=white" alt="watsonx Orchestrate">
+</p>
+
+Afia is a multi-agent healthcare platform that helps doctors convert consultation notes into clear, structured treatment plans for patients.
 
 The doctor selects a patient, enters the diagnosis, medication, dosage, instructions, and follow-up details. Afia checks the required information, then generates a patient-friendly summary, medication schedule, reminders, and key instructions.
 
